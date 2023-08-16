@@ -18,8 +18,12 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/capas-para-motores?Capas para Motores",
+      "/mochilas-em-lona?Mochilas em Lona",
+      "/sacolas-para-tralhas-de-pesca?Sacolas para Tralhas de Pesca"
+    ],
+    "random": 0,
     "full_width": false
   },
   "centralized_logo": false,
