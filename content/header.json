@@ -11,11 +11,11 @@
       },
       {
         "title": "Nossa loja no Mercado Livre",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "link": "https://lista.mercadolivre.com.br/_CustId_181006955"
       }
     ],
     "phone_wpp": true,
-    "socials": true
+    "socials": false
   },
   "categories_list": {
     "featured": [],
