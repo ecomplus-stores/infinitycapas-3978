@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/infinitycapas",
   "logo": "/img/uploads/logo-infinity.jpg",
   "name": "infinitycapas",
-  "short_name": "infinitycapas",
+  "short_name": "Infinity Capas e Produtos Náuticos",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/logo-infinity.jpg",
   "store_id": 51432,
-  "description": "Infinity Capas e Produtos Náuticos",
+  "description": "Somos a maior loja de Capas para motor de Popa e Sacolas para Tralhas de Pesca.",
   "large_icon": "/img/uploads/logo-infinity.jpg"
 }
